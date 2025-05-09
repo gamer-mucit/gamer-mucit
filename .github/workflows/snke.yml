@@ -27,3 +27,14 @@ jobs:
           git add dist/snake.svg
           git commit -m "Snke güncellendi"
           git push
+
+- name: 🗃 Cancel after test failure
+      if: ${{ failure() }}
+      uses: actions/github-script@v6
+      with:
+          script: |
+              github.actions.cancelWorkflowRun({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  run_id: context.runId
+              })
