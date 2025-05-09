@@ -17,9 +17,8 @@ jobs:
       - name: Snke Çalıştır
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
-          user: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
 
       - name: Çıktıyı Depoya Kaydet
         run: |
