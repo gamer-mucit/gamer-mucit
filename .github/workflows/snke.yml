@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *'  # Her gün çalıştır
+    - cron: '0 0 * * *'  # Her gün çalıştır (UTC saatine göre)
 
 jobs:
   build:
