@@ -1,4 +1,4 @@
-![MasterHead](https://s3.cointelegraph.com/uploads/2024-05/130aa153-68d9-4b7d-804b-b1fc3e5ba2f2.jpg)
+
 <h1 align="center">Merhaba 👋, ben Gamer Mucit</h1>
 <h3 align="center">Türkiye'de oyun, siber, robotik, full-stack yazılım geliştiricisiyim</h3>
 
