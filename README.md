@@ -13,7 +13,8 @@
   </a> 
 </p>
 
-<h3 align="left">Benimle bağlanın:</h3>
+<h3 align="left">İletişim:</h3>
+- 📫 How to reach me **enurb320@gmail.com**
 <p align="left"></p>
 
 
