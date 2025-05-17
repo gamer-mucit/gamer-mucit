@@ -2,6 +2,7 @@
 <h1 align="center">Merhaba 👋, ben Gamer Mucit</h1>
 <h3 align="center">Türkiye'de oyun, siber, robotik, full-stack yazılım geliştiricisiyim</h3>
 <p>Başlangıç seviye java backend sertifikası: https://academy.patika.dev/certificates/8sPRVbcP </p>
+<p>Başlangıç seviye frontend sertifikası: https://academy.patika.dev/certificates/ZY1euajZ</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gamer-mucit&label=Profile%20views&color=0e75b6&style=flat" alt="gamer-mucit" />
