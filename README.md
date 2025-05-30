@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=gamer-mucit&label=Profile%20views&color=0e75b6&style=flat" alt="gamer-mucit" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gamer-mucit" alt="oyuncu-mucit" />
-  </a> 
-</p>
+
 
 <h3 align="left">İletişim:</h3>
 
