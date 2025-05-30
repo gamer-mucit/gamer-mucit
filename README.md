@@ -1,6 +1,6 @@
 
 <h1 align="center">Merhaba 👋, ben Gamer Mucit</h1>
-<h3 align="center">Türkiye'de oyun, siber, robotik, full-stack yazılım geliştiricisiyim</h3>
+<h3 align="center">Türkiye'de robotik ve full-stack yazılım geliştiricisiyim</h3>
 <p>Başlangıç seviye java backend sertifikası: https://academy.patika.dev/certificates/8sPRVbcP </p>
 <p>Başlangıç seviye frontend sertifikası: https://academy.patika.dev/certificates/ZY1euajZ</p>
 
